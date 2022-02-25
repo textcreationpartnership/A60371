@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Good advice] and counsel, given forth by Joseph Sleigh of the city of Dublin, in the time of his sickness, to his children. And since his death it being thought fit for the service of others also; therefore it was ordered into print, that other children, &amp;c. may have the benefit thereof</title>
+            <author>Sleigh, Joseph, d. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60371</idno>
+            <idno type="STC">Wing S3991</idno>
+            <idno type="STC">ESTC R220065</idno>
+            <idno type="EEBO-CITATION">99831494</idno>
+            <idno type="PROQUEST">99831494</idno>
+            <idno type="VID">35957</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35957)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2045:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Good advice] and counsel, given forth by Joseph Sleigh of the city of Dublin, in the time of his sickness, to his children. And since his death it being thought fit for the service of others also; therefore it was ordered into print, that other children, &amp;c. may have the benefit thereof</title>
+                  <author>Sleigh, Joseph, d. 1683.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Dublin? :</pubPlace>
+                  <date>Printed in the year 1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: Advice from a father, in the time of his weakness of body, unto his tender children.</note>
+                  <note>Caption title on p. 24 reads: A testimony concerning Joseph Sleigh of Dublin, who departed this life the 2d. day of the 6th month, 1683. about the 40th year of his age.</note>
+                  <note>The final leaf contains verses.</note>
+                  <note>Imperfect; cropped at head with partial loss of title.</note>
+                  <note>Reproduction of the original in the British Library; missing text supplied by Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sleigh, Joseph, d. 1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35957:1"/>
+            <p>AND COUNSEL, Given forth by JOSEPH SLEIGH Of the CITY of DUBLIN, In the time of his Sickneſs, TO HIS CHILDREN.</p>
+            <p>And ſince his Death it be<g ref="char:EOLhyphen"/>ing thought fit for the Service of others alſo; therefore it was ordered into Print, that other Children, <hi>&amp;c.</hi> may have the Be<g ref="char:EOLhyphen"/>nefit thereof.</p>
+            <p>Printed in the Year 1683.</p>
+            <pb facs="tcp:35957:2" rendition="simple:additions"/>
+            <pb facs="tcp:35957:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="advice">
+            <pb facs="tcp:35957:3"/>
+            <pb facs="tcp:35957:3"/>
+            <head>Advice from a Father, in the time of his Weakneſs of Bo<g ref="char:EOLhyphen"/>dy, unto his tender Children.</head>
+            <opener>
+               <salute>My dear Children,</salute>
+            </opener>
+            <p>REmember your Creator in the days of your youth, in your young years, before the Ene<g ref="char:EOLhyphen"/>my of your Souls draw your Minds out into the Wickedneſs and Un<g ref="char:EOLhyphen"/>godlineſs of the World, to defile your Hearts and Minds with the Wickedneſs and Profaneneſs there of; and ſo harden your Hearts in Sin and Ungodlineſs; which will bring Wo and Miſery upon your Souls, and anguiſh of Spirit, and bitter Lamentation, and provoke the Anger of the Lord againſt you. This is the work of the Deſtroyer of Souls, the Devil, who goes about
+<pb n="2" facs="tcp:35957:4"/>like a roaring Lion, ſeeking whom he may devour. And no ſooner Children grow up to years of un<g ref="char:EOLhyphen"/>derſtanding, but this Enemy comes to tempt them, and draw them in<g ref="char:EOLhyphen"/>to evil, and into thoſe things which are contrary to the pure Mind and Will of the Lord; ſome into one thing, and ſome into another, ac<g ref="char:EOLhyphen"/>cording as they are naturally in<g ref="char:EOLhyphen"/>clined; ſome to Wildneſs and Rude<g ref="char:EOLhyphen"/>neſs, ſome to Pride, ſome to Stub<g ref="char:EOLhyphen"/>borneſs and Self-conceitedneſs; ſome to one vanity and ſome to another. This is the work of the Deſtroyer.</p>
+            <p>Therefore, my Children, my Ad<g ref="char:EOLhyphen"/>vice to you in tender love is; that you wait upon the Lord in the ſtil<g ref="char:EOLhyphen"/>neſs and coolneſs of your Minds, in the ſilence of all fleſh, or fleſhly thoughts or cogitations, that you may receive Wiſdom and Strength from the Lord, to withſtand the Enemy of your Souls: For, as it is written in the Scriptures of Truth,
+<pb n="3" facs="tcp:35957:4"/>
+               <hi>They that wait upon the Lord ſhall renew their Strength;</hi> for none are able to overcome the Enemy, but they that know the renewing of his Strength; for <hi>of your ſelves</hi> (as Chriſt ſaid) <hi>you can do nothing:</hi> and an overcoming there muſt be, or elſe no entring into that Reſt, which is without end.</p>
+            <p>My dear Children, you have immortal Souls that ſhall never die; but ſhall be ſenſible either of ever<g ref="char:EOLhyphen"/>laſting Joy and Felicity with the Lord, and with the Godly in Ge<g ref="char:EOLhyphen"/>nerations paſt, in the Kingdom of unſpeakable Glory for evermore; or for ever feel the Anger and In<g ref="char:EOLhyphen"/>dignation of the Lord with the wicked and ungodly, in the Hell of eternal Wo and Miſery, which is a deplorable ſtate.</p>
+            <p>And as there is but theſe two ſtates for the Soul to remain in af<g ref="char:EOLhyphen"/>ter Death; the one Joy and Com<g ref="char:EOLhyphen"/>fort, the other Wo and Miſery: ſo there are but two ways, the one is
+<pb n="4" facs="tcp:35957:5"/>the ſtreight and narrow way that leadeth to Life, the other the broad way that leadeth to the Chambers of Death: So you ſee there is but one way to Life eternal, even the ſtreight and narrow way; although you will ſee many ways in the world; one ſaying, this is the way, another ſort ſaying, nay, but this is the way: and ſo various ſorts of Re<g ref="char:EOLhyphen"/>ligions in the world, every one cry<g ref="char:EOLhyphen"/>ing up their ſeveral Notions to be the way to the City of Peace and Reſt, which (upon your viewing of it in your Minds) may raiſe doubts, and cauſe ſome Conſidera<g ref="char:EOLhyphen"/>tions in your Minds. And from the conſidering of things you may reaſon within your ſelves; Here are many ſorts of Ways and Religions in the world, and all pretend to be the right way; and how ſhall we do to know the one right way a<g ref="char:EOLhyphen"/>mongſt thoſe many ways; for there is but one right way: and we may ſpend all our days in running from
+<pb n="5" facs="tcp:35957:5"/>one Religion to another to find the right way, and may miſs of it at laſt; and ſo lay down our heads in Sorrow.</p>
+            <p>
+               <hi>Anſwer.</hi> Chriſt ſaith, he is the Way, the Truth and the Life; and it is ſaid in the Scriptures of Truth, that Chriſt enlightens every one that comes into the world: And when Chriſt talked with the Wo<g ref="char:EOLhyphen"/>man at the Well of <hi>Samaria</hi> about Worſhip, and the place of Worſhip, (there being, at that day, a diffe<g ref="char:EOLhyphen"/>rence between the <hi>Samaritans</hi> and the <hi>Jews</hi> about the place of Wor<g ref="char:EOLhyphen"/>ſhip, as appears by the Womans words to Chriſt, when ſhe ſaid, <hi>Our Fathers worſhipped in this Moun<g ref="char:EOLhyphen"/>tain, and ye ſay that in</hi> Jeruſalem <hi>is the place where men ought to wor<g ref="char:EOLhyphen"/>ſhip;</hi>) Chriſt ſays, <hi>Woman, believe me, the hour cometh, when ye ſhall neither in this Mountain, nor yet at</hi> Jeruſalem, <hi>worſhip the Father. Ye worſhip ye know not what: we know what we worſhip: for Salvation is of
+<pb n="6" facs="tcp:35957:6"/>the</hi> Jews. <hi>But the hour cometh, and now is, when the true Worſhippers ſhall worſhip the Father in Spirit and in Truth; for the Father ſeeketh ſuch to worſhip him. God is a Spirit, and they that worſhip him, muſt wor<g ref="char:EOLhyphen"/>ſhip him in ſpirit, and in truth.</hi> Joh. 4.20, 21, 22, 23, 24.</p>
+            <p>So this is the true way to wor<g ref="char:EOLhyphen"/>ſhip the Father, ſet up by Chriſt Je<g ref="char:EOLhyphen"/>ſus the Shepherd and Biſhop of the Souls; the ſpiritual Worſhip which is to continue: And <hi>Paul</hi> ſaith, <hi>what may be known of God, is made manifeſt in man:</hi> And Chriſt forbids to run after thoſe who turn peoples minds outward, to look for the way to the Kingdom, <hi>ſaying, lo here, or lo there: for behold, the Kingdom of God in within you.</hi> Luk. 17.21.</p>
+            <p>Now if the Kingdom be within, of neceſſity muſt mans Guide be there alſo; as the Apoſtle ſays, <hi>Try your ſelves, prove your ſelves; know ye not how that Chriſt is in you, except ye be Reprobates?</hi>
+            </p>
+            <pb n="7" facs="tcp:35957:6"/>
+            <p>So here is Chriſt, the way to the Father, near in your Hearts, to guide, teach, admoniſh and reprove, and to juſtifie thoſe that are his faithful followers: So if you want Counſel, you may wait in the cool<g ref="char:EOLhyphen"/>neſs and ſtilneſs of your Minds, and Counſel you will receive. If you be like to faint in your travel, Chriſt the way will be as the Shadow of a mighty Rock in a weary Land: If you be thirſty, he will be to you as a Well of Water to refreſh your Souls, If you hunger, he will feed you with the Bread of Life, and clothe you with his Spirit: And if you keep the word of his Pati<g ref="char:EOLhyphen"/>ence, he will preſerve you in the hour of temptation.</p>
+            <p>But it may be objected and ſaid; How ſhall we know the Teachings of Chriſt by his Spirit in our hearts, from the Suggeſtions of the Enemy of our Souls; which is alſo a Spirit?</p>
+            <p>
+               <hi>Anſwer.</hi> That which reproves thee in ſecret for evil committed by
+<pb n="8" facs="tcp:35957:7"/>thee (when no eye, it may be, ſaw thee) is the Spirit of Truth, which leads into all Truth, and Righteouſneſs, and leadeth thoſe who give up to be led by it, into the paths of Holineſs, without which none ſhall ſee God, (as faith the Scriptures of Truth) and con<g ref="char:EOLhyphen"/>demns evil thoughts when they a<g ref="char:EOLhyphen"/>riſe in the Creature, before they come forth to actions; and leads men to deny all Ungodlineſs and worldly Luſts, and to live godlily and ſoberly in this preſent evil world; and teacheth people to be true to God, and alſo to man; and to deal honeſtly with all men; and to do to every one, as they would have every one do to them.</p>
+            <p>And this good Spirit teacheth Children to be dutiful to their Pa<g ref="char:EOLhyphen"/>rents, and teaches Servants to ſerve their Maſters faithfully, (not as eye<g ref="char:EOLhyphen"/>ſervants, but as knowing there is an All-ſeeing Eye that ſees all things:) It leads into all good,
+<pb n="9" facs="tcp:35957:7"/>and is the Author of all good; and as the Beams of the Sun that ſhines into our houſes comes from the Sun, and draws to the Sun again, being its Center; ſo this meaſure of Divine Light, that proceeds from the Sun of Righteouſneſs, ſhines in<g ref="char:EOLhyphen"/>to the Hearts of the Sons and Daughters of men; and directs (by the Beams or Rays of its Glory) to Chriſt the Fulneſs: ſo brings people into the Nature of Chriſt; and ſo ſuch become true born Chri<g ref="char:EOLhyphen"/>ſtians, born of the Spirit, and led by the Spirit into that which is ſo<g ref="char:EOLhyphen"/>ber and of a good report, and into that which adorns Chriſtianity, (to wit) a good Life, and a blameleſs Converſation; for that's true Religi<g ref="char:EOLhyphen"/>on that viſits the Fatherleſs and the Widow, and keeps themſelves un<g ref="char:EOLhyphen"/>ſpotted of the World [mark that]. But the wicked Spirit, the Enemy of mans Good and Happineſs leads into all manner of Wickedneſs, leads Children to diſobey their Pa<g ref="char:EOLhyphen"/>rents,
+<pb n="10" facs="tcp:35957:8"/>to be falſe to their Maſters, to be falſe to their Neighbours, to be headdy and high-minded, lovers of Pleaſure more than lovers of God; leads to Strife, Envy, Malice, Murthers, Adultery, Theft, and all manner of evil, in order to deſtroy the Soul.</p>
+            <p>And ſo by this (my dear Chil<g ref="char:EOLhyphen"/>dren) you may know the right Spi<g ref="char:EOLhyphen"/>rit from the wrong; as a Tree is known by its Fruits and a Fountain by the Water it brings forth; <hi>Can a Fountain bring forth both ſweet Water and bitter?</hi> as ſaith the Scri<g ref="char:EOLhyphen"/>pture by way of queſtion: So, in ſhort, the one leads into all good, and the contrary into all evil.</p>
+            <p>And theſe Miniſters that direct peoples Minds to the meaſure of Light and Grace in their own hearts, and teach people to love the Light, and obey the Light, that they may be Children of the Light; and to wait in that which manifeſts Sin and Evil, and be ſubject to its lead<g ref="char:EOLhyphen"/>ings
+<pb n="11" facs="tcp:35957:8"/>and guidings, that Power may be received to overcome Sin and Evil; that ſo the works of the De<g ref="char:EOLhyphen"/>vil may be deſtroyed, and a Victo<g ref="char:EOLhyphen"/>ry in the Dominion of the Spirit, and Power of Truth, may be known over all Sin and Uncleanneſs, that Chriſt may rule and reign in your hearts; (theſe are the Miniſters of Chriſt whoſe Kingdome is Love, Peace, and Joy to the Soul) and that this was the end of Chriſts coming to deſtroy the work of the Devil, and to preſent men to the Father without ſpot or wrinkle, or any ſuch thing; and that nothing that is unclean enter the Kingdom of Heaven, (as ſaith the Scripture;) and direct people to Chriſt the Biſhop and Paſtor of their Souls, that they may witneſs Power from him to overcome the wicked one; and ſo bring not only to the Form of Godlineſs, but to the Power alſo; and for their Service and Labour of Love, deſire no mans Silver or Gold,
+<pb n="12" facs="tcp:35957:9"/>or Apparel; but bear their Teſti<g ref="char:EOLhyphen"/>mony (according to the Scriptures) againſt thoſe that preach for hire, and divine for mony, and ſeek their gain from their Quarter, and eat the Fat, and clothe with the Wool, and prepare War againſt thoſe that will not put into their Mouths; whoſe God is their Belly, whoſe Glory is their Shame, who love and ſeek earthly things; and live in Pride and Idleneſs upon the Sweat of poor mens Labours, and matter not what become of their Souls, and preach up Sin term of Life; and do not obey Chriſts Com<g ref="char:EOLhyphen"/>mands, who ſaid to his Miniſters, when he ſent them out, <hi>freely you have received, freely give;</hi> and as the Spirit ſaid through the Prophet <hi>every one that is thirſty come and buy Milk and Wine without mony, and without price:</hi> I ſay, theſe Miniſters as hold forth this Doctrine as afore<g ref="char:EOLhyphen"/>ſaid (in a pure Life and Converſa<g ref="char:EOLhyphen"/>tion, in the movings of his Spirit)
+<pb n="13" facs="tcp:35957:9"/>are the Miniſters of Chriſt, as afore<g ref="char:EOLhyphen"/>ſaid: But they that tell people, they muſt ſin term of life, and it is impoſſible to overcome the Devil; but people muſt live in ſin ſo long as they live in this world, and it cannot be otherwiſe: contrary to the Scripture, which ſaith, <hi>If we walk in the Light, as he is in the Light, then have we fellowſhip one with another; and the Blood of Jeſus Chriſt his Son cleanſeth us from all ſin;</hi> and <hi>John</hi> bore teſtimony of Chriſt, that <hi>he was the Lamb of God that taketh away the ſins of the world:</hi> and his Name was called <hi>Jeſus,</hi> becauſe he was to ſave his people from their ſins, not in their ſins; for all ſin is of the Devil, and they that plead for ſin, plead for the Devils Kingdom, and are his Miniſters, and not the Miniſters of Chriſt; for Chriſt and his Miniſters preach'd up Holineſs, and Righteouſ<g ref="char:EOLhyphen"/>neſs, and Innocency; and endeavour<g ref="char:EOLhyphen"/>ed to bring man up into that ſtate
+<pb n="14" facs="tcp:35957:10"/>in which man was before he fell: <hi>The firſt Man</hi> Adam <hi>was of the earth earthly; but the ſecond Man was the Lord from Heaven, a quickening Spi<g ref="char:EOLhyphen"/>rit</hi> (as ſaith the Scriptures,) to re<g ref="char:EOLhyphen"/>new and quicken man, who was dead from God by reaſon of Diſo<g ref="char:EOLhyphen"/>bedience, and brings man again in<g ref="char:EOLhyphen"/>to that ſtate and image that he was in before he ſell; and ſo into that love and unity with his Maker, which he had in the beginning, be<g ref="char:EOLhyphen"/>fore Sin was, and before there was any Preachers up of Sin and Diſo<g ref="char:EOLhyphen"/>bedience, term of Life: For the firſt that preached up Diſobedience to Gods Commandments (which are holy and good) was the Serpent, the Devil, the Enemy of mans Hap<g ref="char:EOLhyphen"/>pineſs; and he did it under a pre<g ref="char:EOLhyphen"/>tence to pleaſe that Mind that would fain have Liberty to Evil, ſaying, <hi>they ſhould be wiſe, as Gods, knowing good and evil;</hi> and by giving way to that Sin-pleaſing Doctrine, Death came over their Souls: So
+<pb n="15" facs="tcp:35957:10"/>theſe Prieſts, or Teachers, that preach up Sin and Diſobedience term of life: they may ſee their o<g ref="char:EOLhyphen"/>riginal, the Serpent; and if they repent not; but continue in their obſtinacy and evil ſerpentine Do<g ref="char:EOLhyphen"/>ctrine, they will come (with him) under the Curſe and Indignation of God, as the Serpent did.</p>
+            <p>So my dear Children, have a care of theſe Deceivers, and rather chuſe (with good <hi>Moſes</hi>) to endure afflicti<g ref="char:EOLhyphen"/>on with the people of God, than to enjoy the pleaſures of Sin for a ſeaſon; for they that will live god<g ref="char:EOLhyphen"/>ly in Chriſt Jeſus muſt ſuffer Perſe<g ref="char:EOLhyphen"/>cution.</p>
+            <p>As I have given you ſome marks before of falſe Miniſters, (which are Teachers of the falſe Church): ſo here is another mark that you may be certain of to be a mark of a falſe Church, and that is Perſecution a<g ref="char:EOLhyphen"/>bout Religion: for the true Church never did perſecute; but was per<g ref="char:EOLhyphen"/>ſecuted, and ſuffered perſecution in
+<pb n="16" facs="tcp:35957:11"/>all ages, by the falſe Worſhippers, who had the Form of Godlineſs, but denyed the Power; from ſuch we are commanded to turn away.</p>
+            <p>So dear Children, where ever you ſee this mark, you may conclude thoſe to be falſe Worſhippers and a falſe Church; and <hi>Cain</hi> that mur<g ref="char:EOLhyphen"/>thered his Brother (about Religion) to be their Father (being led by his Spirit,) and the Reward of <hi>Cain</hi> they will have (if they repent not,) which is, to be driven out from the pre<g ref="char:EOLhyphen"/>ſence of the Lord, and to become a Vagabond, and be made to cry out (as <hi>Cain</hi> was) <hi>my puniſhment is grea<g ref="char:EOLhyphen"/>ter than I can bear.</hi>
+            </p>
+            <p>The Spirit of Chriſt, that dwells in the true Church, teacheth his people to love their Enemies, to do good to thoſe that hate them, and deſpitefully uſe them, that they may be the Children of their Father which is in Heaven; for he maketh his Sun to riſe on the evil, and on the good; and ſendeth Rain on the
+<pb n="17" facs="tcp:35957:11"/>juſt and on the unjuſt, <hi>Matth.</hi> 5.44, 45. and to deſire the good of all even the Salvation of their Souls, according to Chriſts Command, when he was in the body of Fleſh upon the earth.</p>
+            <p>So, my dear Children, through the Love and Deſire that is in my heart for your Souls good, that you may come to live the life of the righteous, and ſo have the righte<g ref="char:EOLhyphen"/>ous Reward, which is Peace and Joy and Unity with the Lord to all eternity; and that when you come to lay down your Heads in the Duſt, you may have Peace with the Lord, which is of more value than an earthly Crown.</p>
+            <p>My heart is opened to write theſe few Lines unto you, to leave behind, as a further Legacy of my Love unto you, which (as ye come to years of underſtanding) I deſire you to read and conſider, in the ſame Love that moved me to write this, and to leave it behind me, and
+<pb n="18" facs="tcp:35957:12"/>let it have an impreſſion upon your Spirits, as the Advice of a loving and tender Father.</p>
+            <p>My dear Lambs, fear and love the Lord above all things, and ſeek firſt the Kingdom of Heaven and the Righteouſneſs thereof, and all other things the Lord will add, and he will bleſs you with his Bleſſings, and will provide for you, and be a tender Father unto you; and you ſhall want nothing that is good for you, but your heavenly Father will provide it for you, as you keep in his Fear, in the humility of your Souls, in a heavenly dependency upon him the Giver of all good.</p>
+            <p>And, my dear Lambs, as you grow up to underſtanding, let your Minds be upon heavenly things, and wait upon the Lord, that you may feel his Power and Life, that will ſeaſon your Souls, and draw your Affections Heavenward, into Sobriety, Chaſtity and Moderation in every thing, both in your eating,
+<pb n="19" facs="tcp:35957:12"/>drinking, apparel, and in every thing elſe that you may make uſe of in the Creation, tha tthe Lord God of my Life may bleſs you.</p>
+            <p>And, dear Lambs, have a care of letting your Minds ont, to mind and take delight in the pleaſures and vanities of this world, which will endure but for a moment, in compariſon of Eternity: And if you feel the Enemy drawing, and lay<g ref="char:EOLhyphen"/>ing before you the pleaſures of this world, in order to draw your minds from God; wait upon the Lord in that which ſhews you that they are the Suggeſtions of the Enemy of your Souls, and the Lord will give you power to withſtand him, and to deny his Temptations; for the ſame that manifeſts Sin, will (as you wait in it upon the Lord) give you power over Sin; for the Spirit and Power of God in man hath more power (as man gives up to be led by it) to preſerve from Sin and evil, than the wicked Spirit hath to
+<pb n="20" facs="tcp:35957:13"/>draw into Sin; as, ſaith the Scri<g ref="char:EOLhyphen"/>pture, <hi>greater is he that is in us, than he that is in the world.</hi>
+            </p>
+            <p>So, my dear Lambs, wait upon the Lord, that you may ſee him in all his appearances; for he is a De<g ref="char:EOLhyphen"/>ſtroyer, and goes about like a roar<g ref="char:EOLhyphen"/>ing Lion ſeeking whom he may de<g ref="char:EOLhyphen"/>vour.</p>
+            <p>So, as you tender the good and happineſs of your Souls, be faithful to the Lord in all ſtates and condi<g ref="char:EOLhyphen"/>tions; and keep good Company, thoſe that ſear the Lord; and be willing to receive the Advice of ſuch in all your undertakings: and if it be ſo ordered, that you be Servants to any, get into honeſt Families, thoſe that fear and love the Lord; that you may be inſtructed and brought up in that which is good; and be faithful, true and honeſt in your Services, and be ſubject to thoſe you may ſerve, in all honeſt and lawful things, and then the Lord will bleſs you, and you will
+<pb n="21" facs="tcp:35957:13"/>be a Bleſſing in the Family you dwell in, and good example to your Fellow-ſervants, which is well pleaſ<g ref="char:EOLhyphen"/>ing to the Lord.</p>
+            <p>And if it be ſo ordered, that you my Sons live until you be men, and that you deſire to marry; my Ad<g ref="char:EOLhyphen"/>vice to you is, that ye mind from what ground your Love ſprings; and conſider things well in the Fear of the Lord; and be not taken with every thing that may ariſe in your hearts; but be willing to be adviſed by ſuch whom you judge do fear the Lord: in that weighty concern, have an eye to Virtue morethan out<g ref="char:EOLhyphen"/>ward Riches in your choice of Wives.</p>
+            <p>And you my Daughters, if it be ſo ordered of the Lord, that ye live till you come to Womens eſtate, be not ready to receive every one that may profer love to you, as in rela<g ref="char:EOLhyphen"/>tion to Marriage; but wait upon the Lord for Counſel and Advice: and take advice of thoſe who you
+<pb n="22" facs="tcp:35957:14"/>judge do fear the Lord; and keep your ſelves ſober and chaſt in the Fear of the Lord; and no doubt but you will do well. My Will and Deſire is, that you all be adviſed in all things and concerns, that are any thing weighty, by my Executors and Overſeers, who (I hope) will be ready to give their Advice.</p>
+            <p>And when you come to keep Families, and have Dealings and Trading in the world, have an eye to the Truth, that you may do no<g ref="char:EOLhyphen"/>thing to diſhonour it: but in your Trading and Dealings you behave your ſelves uprightly and juſtly to all men, that ſo by your holy Lives and Converſations Truth may be well ſpoken of, which will cauſe the Lord to bleſs your Endeavours. And if Riches increaſe, ſet not your hearts upon them; but do good with them, having an eye to the Giver: and keep in a holy depen<g ref="char:EOLhyphen"/>dency upon the Lord; and in all ſtates learn to be content, and keep
+<pb n="23" facs="tcp:35957:14" rendition="simple:additions"/>your eye to the Lord over exerciſes and troubles, inwardly and out<g ref="char:EOLhyphen"/>wardly, which you may meet with in this world, that your Conſciences may be preſerved without offence towards God and all men, that in the end you may lay down your heads in peace with the Lord, which is better than a thouſand worlds.</p>
+            <p>So, my dear Lambs, I would have you read theſe Lines over often, and obſerve them, that your Souls may be preſerved from hurt; be<g ref="char:EOLhyphen"/>ing written in dear Love to your Souls, from your tender Father,</p>
+            <closer>
+               <signed>JOSEPH SLEIGH.</signed>
+               <dateline>
+                  <hi>Dublin</hi> 
+                  <date>the 11th. Month, 1683.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="24" facs="tcp:35957:15"/>
+            <head>
+               <hi>A Teſtimony concerning</hi> Joſeph Sleigh <hi>of</hi> Dublin, <hi>who de<g ref="char:EOLhyphen"/>parted this Life the</hi> 2d. <hi>day of the</hi> 6th <hi>Month,</hi> 1683. <hi>a<g ref="char:EOLhyphen"/>bout the</hi> 40th. <hi>year of his age.</hi>
+            </head>
+            <p>AS for our Friend and Brother, who is taken hence before us, I have this to ſay of him, That ever ſince I knew him, being about four<g ref="char:EOLhyphen"/>teen years paſt (ſince I came to live in <hi>Dublin</hi>) I was ſenſible his Love and Reality was ſo much to the bleſſed Truth he profeſſed, as to prefer it before any man or thing he was concerned in: For he loved the Honour of the Lord and his pure Truth, which never conſented to any ſin or evil, which cauſed me to have a very near love to (and u<g ref="char:EOLhyphen"/>nity with) him. He ſtood a faithful Witneſs in his day (according to his Call and Meaſure) againſt De<g ref="char:EOLhyphen"/>ceit
+<pb n="25" facs="tcp:35957:15"/>in Profeſſor and Proſane, yet a great Lover of the faithful, and de<g ref="char:EOLhyphen"/>ſirer of Unity amongſt Brethren. I never perceived him apt to differ with any about outward things, which he accounted trifles in the compariſon of the heavenly Rich<g ref="char:EOLhyphen"/>es, which I am ſenſible he much prized, and loved to ſee others proſper therein: for my own part, in all my Intimacy with him, (which was very great) (as I can re<g ref="char:EOLhyphen"/>member) I always found him zea<g ref="char:EOLhyphen"/>lous for Truth, his Behaviour being ſweetned with the Spirit of Truth: he lived and deceaſed well, and was in the long and tedious time of his Sickneſs born up by the Truth he loved, in much comfort and pati<g ref="char:EOLhyphen"/>ence waiting the Lords appointed time for his Deliverance into eter<g ref="char:EOLhyphen"/>nal Reſt. And ſtill his remem<g ref="char:EOLhyphen"/>brance liveth in my heart, and that he is entred into eternal habitation of Reſt, is ſealed in my Spirit; and doubtleſs it's a good motive and
+<pb n="26" facs="tcp:35957:16"/>encouragement for the faithful to perſevere in well doing to the end, that the Crown of eternal Life may be their portion, which is not only laid up for him, but for all the righ<g ref="char:EOLhyphen"/>teous that love Chriſts appearance.</p>
+            <p>He left his antient Mother, and five Children (Orphants) behind him, which he carefully and wiſely diſcharged himſelf towards, as to his outward eſtate; and he having left good Councel and Advice to his Children, given forth in Manuſcript in the time of his Sickneſs, his ſaid Mother deſired it ſhould be put in<g ref="char:EOLhyphen"/>to print, which was unanimouſly a<g ref="char:EOLhyphen"/>greed to by Friends of our Mens Meeting in <hi>Dublin,</hi> for the Service of them intended, and others that may reap benefit thereby.</p>
+            <p>The Righteous are taken away from the evil to come, and few lay it to heart.</p>
+            <p>And though the Lord has taken ſo ſervicable a Member from us; yet he can raiſe up more (and I hope
+<pb n="27" facs="tcp:35957:16"/>will) whereby his Name and Truth may be honoured upon the Earth, not unto us, not unto us, but unto the Name and Power of the Lord, over all, be Praiſes, and Renown, who is worthy for ever and ever. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>Honeſt <hi>Joſeph.</hi> I loved him very dear;</l>
+               <l>For to the Lord of Life he had true fear:</l>
+               <l>His Truth he lov'd, and all the Righteous Seed;</l>
+               <l>But fallers back did make his heart to bleed</l>
+               <l>In ſorrowful dolour for the Truths renown,</l>
+               <l>That ſuch backſliders had defac'd its Crown</l>
+               <l>Within themſelves, which made the weak to ſtumble,</l>
+               <l>'Gainſt ſuch blocks the blind's apt to tumble.</l>
+               <l>He loved the blind ſhou'd not be led aſtray,</l>
+               <l>And erring folks be brought to th' right way.</l>
+               <l>He loved the Light, and brightneſs of its ray,</l>
+               <l>That ſhined in his Soul of its clear day.</l>
+               <l>His Underſtanding and his Love thereby</l>
+               <l>To God and man, was good entirely,</l>
+               <l>That God his Honour, and that man true Peace</l>
+               <l>He did deſire to his very Race;</l>
+               <l>But ſuch as of this happineſs did bereave</l>
+               <l>Juſt was his Sorrows, and's Judgments grave,</l>
+               <l>To bring them to a ſenſe of their own ſtate,</l>
+               <l>T' amend their ways before it was to late:</l>
+               <l>His Zeal was well intended for their well,</l>
+               <l>And's Love to God, 'gainſt whom they did rebel.</l>
+               <pb facs="tcp:35957:17" rendition="simple:additions"/>
+               <l>But he is gone to that eternal Bliſs</l>
+               <l>Of never ending Joys, and ſo to ceaſe</l>
+               <l>From man, who's breath's ſo ſhort that they</l>
+               <l>In little time ſhall have no more a day.</l>
+               <l>His care for Truth, and for ſuch ſouls as theſe</l>
+               <l>Was very great, that they might have true peace:</l>
+               <l>And that Gods Name might ever honor'd be,</l>
+               <l>And all the ſaving Truth might love like he:</l>
+               <l>His holy Zeal, his virtuous Spirit ſo clean</l>
+               <l>Doth ſpeak aloud what he therein did mean;</l>
+               <l>Though fallers back by his zeal has bin croſt,</l>
+               <l>He did deſire not one ſoul ſhould be loſt.</l>
+               <l>This is my Teſtimony of his mind,</l>
+               <l>Which by a ſtrict ſcrutiny I find:</l>
+               <l>Tho' he with evil actors could not bear,</l>
+               <l>Yet 'gainſt the Truth to act he had great fear.</l>
+               <l>His Body's gone, yet Praiſe is left behind;</l>
+               <l>So young, and real for Truth, I deſire to find</l>
+               <l>More <hi>Joſeph</hi>'s bough, over the wall to ſpread,</l>
+               <l>And to the wicked be as great a dread;</l>
+               <l>His Counſel to's Babes doth partly ſhow,</l>
+               <l>That of his Spirit I write, that I did know,</l>
+               <l>And that for all, that are now left behind,</l>
+               <l>That with his Zeal for Truth any fault may find,</l>
+               <l>I do deſire for them, and all mens parts,</l>
+               <l>They may live and dye and have deſerts</l>
+               <l>Like him I do through Truth ſo much com<g ref="char:EOLhyphen"/>mend,</l>
+               <l>Who to the truth and mankind was a friend</l>
+               <l>So or the Truth we Self muſt come to hate,</l>
+               <l>That hinders us from a more happy ſtate,</l>
+               <l>To love &amp; live in truth through all our days</l>
+               <l>By me and all Truths lovers be the praiſe.</l>
+            </lg>
+            <closer>
+               <signed>A S.</signed>
+            </closer>
+            <pb facs="tcp:35957:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
